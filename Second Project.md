@@ -16,3 +16,11 @@ The terminal returns back this image:
 ![image](https://github.com/tpbabdul/TundeP/assets/135444991/24f1c046-9798-40bc-9837-d1372ed340eb)
 
 When I proceed to view the list via: http://ec2-13-40-78-69.eu-west-2.compute.amazonaws.com/todo_list.php or http://13.40.78.69/todo_list.php, I get a blank page.
+
+I attended a blocker session where I was asked to substitute "nano /var/www/projectLEMP/todo_list.php" with "vi /var/www/projectLEMP/todo_list.php".  Apparantly both nano and vi are word editors (comes with experience I guess)!.  
+
+In the end, it worked, I was able to run the script and save the  todo_list.php script.
+
+My public webpage now displays the To Do list as expected. Result!
+
+![image](https://github.com/tpbabdul/TundeP/assets/135444991/4598d314-4492-430f-83b0-00524f2b7699)
