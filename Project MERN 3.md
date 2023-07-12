@@ -42,3 +42,5 @@ I progressed to the front-end creation despite the above
 It was pretty straighforward following the script, but then I experienced some issues when I added the key value pair in the package.json file "proxy": "http://localhost:5000".
 
 when I ran the "npm run dev" command, the applicatipon did not start running on localhost:3000
+
+I tried on 2 other occasions to attempt the rest of the project but the errors kept occuring so I stopped.
