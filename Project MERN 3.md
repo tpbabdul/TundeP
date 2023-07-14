@@ -13,6 +13,9 @@ up until when i tried to update the index.js to reflect the use of .env so that 
 
 I started getting various error messages as the server failed to start many times so I kept going back to the script to check for errors
 
+![image](https://github.com/tpbabdul/TundeP/assets/135444991/06e6d475-11c3-4dd5-a365-006f8ff396fb)
+
+
 I also had some issues getting the right path to getting the DB username, password and DB.  The instructions were not easy to follow.  It took me a few hours to eventually get the right path.
 
 Eventually, I got an error message indicating the port :5000 was already in use so I searched on google for the possible causes of it.
