@@ -40,9 +40,9 @@ ERROR 1396 (HY000): Operation CREATE USER failed for 'remote_user'@'%'
 <img width="1680" alt="Screenshot 2023-07-12 at 15 31 26" src="https://github.com/tpbabdul/TundeP/assets/135444991/e37f37ad-d79e-4a8b-9b1b-4443718c9d00">
 
 Did a google search as was directed to drop the user and recreate it:
-- drop user admin@localhost;
+- drop user 'remote_user';
 - flush privileges;
-- create user admin@localhost identified by 'admins_password'
+- create user 'remote_user' identified by 'admins_password'
 
 CREATED a test DB:
 CREATE DATABASE tundetest_db; (test_db)
