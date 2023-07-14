@@ -11,7 +11,7 @@ I followed the script as explained so the connection was successful and connecte
 
 up until when i tried to update the index.js to reflect the use of .env so that Node.js can connect to the database. 
 
-I started getting various error messages as the server failed to start many times so I kept going back to the script to check for errors
+I started getting various error messages as the server failed to start many times so I kept going back to the script to check for errors (I checked on slack and realised i wasn't the only one experiening this so it seems its a common issue where the "copy and paste" instructions for some reason doesn't go according to plan.  It took me several attempts before I finally was able to proceed).
 
 ![image](https://github.com/tpbabdul/TundeP/assets/135444991/06e6d475-11c3-4dd5-a365-006f8ff396fb)
 
